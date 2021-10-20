@@ -1,0 +1,1 @@
+{"inputs": [[]], "outputs": [[{"class_name": "AddOneDimension", "config": {}}, {"class_name": "OneHotEncoder", "config": {"labels": ["amc_bul", "jap_nam_sam", "lutei", "ron", "rub_tap"]}}]]}
