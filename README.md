@@ -1,7 +1,9 @@
 # Testing Machine Learning and Deep Learning to Identify birds by song
 
-<p align="center"> <img src=https://github.com/nnbuainain/bird_song-id_ML/blob/main/image_bird.png width="250" alt="bird_pic" class="center"></p>
-
+<p align="center"> 
+  <img src="https://github.com/nnbuainain/bird_song-id_ML/blob/main/image_bird.png?raw=true" width="300" class="center"/>
+  <img src="https://github.com/nnbuainain/bird_song-id_ML/blob/main/pca_plot.png?raw=true" width="350" class="center"/> 
+</p>
 
 ## Goals
 In this project me and Maura Costa (https://github.com/Mauregina) used different data processing and machine learning methods including supervised and non-supervised algorithms to try to distinguish genetically differentiated birds by their songs.
